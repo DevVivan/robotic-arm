@@ -18,5 +18,6 @@ block at random positions through actuator control.
 
 ## Simulation Render
 
-https://github.com/DevVivan/robotic-arm/assets/130225932/20a46f4e-355f-48b1-a586-998e67b45dee
+https://github.com/DevVivan/robotic-arm/assets/130225932/2e3616bb-93c4-489b-9106-694249b1bbf1
+
 
