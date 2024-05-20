@@ -4,7 +4,7 @@ In this project, I have worked closely with an undergraduate student from Caltec
 
 ## Links
 
-- [Robotics Progress]{github.com}
+- [Robotics Progress](https://github.com/DevVivan/robotics-progress)
 
 ## Key Takeaways
 
